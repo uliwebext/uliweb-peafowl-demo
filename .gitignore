@@ -1,0 +1,4 @@
+*.pyc
+*.bak
+local_settings.ini
+sessions
